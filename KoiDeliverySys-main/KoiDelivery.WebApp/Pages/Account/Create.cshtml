@@ -1,0 +1,54 @@
+﻿@page
+@model KoiDelivery.WebApp.Pages.Account.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>TaiKhoanKhachHang</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TaiKhoanKhachHang.AccId" class="control-label"></label>
+                <input asp-for="TaiKhoanKhachHang.AccId" class="form-control" />
+                <span asp-validation-for="TaiKhoanKhachHang.AccId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TaiKhoanKhachHang.Password" class="control-label"></label>
+                <input asp-for="TaiKhoanKhachHang.Password" class="form-control" />
+                <span asp-validation-for="TaiKhoanKhachHang.Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TaiKhoanKhachHang.EmailAddress" class="control-label"></label>
+                <input asp-for="TaiKhoanKhachHang.EmailAddress" class="form-control" />
+                <span asp-validation-for="TaiKhoanKhachHang.EmailAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TaiKhoanKhachHang.Description" class="control-label"></label>
+                <input asp-for="TaiKhoanKhachHang.Description" class="form-control" />
+                <span asp-validation-for="TaiKhoanKhachHang.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TaiKhoanKhachHang.Role" class="control-label"></label>
+                <input asp-for="TaiKhoanKhachHang.Role" class="form-control" />
+                <span asp-validation-for="TaiKhoanKhachHang.Role" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

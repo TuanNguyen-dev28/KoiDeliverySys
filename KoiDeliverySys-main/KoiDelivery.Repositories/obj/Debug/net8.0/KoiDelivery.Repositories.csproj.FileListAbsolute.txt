@@ -1,0 +1,14 @@
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\bin\Debug\net8.0\KoiDelivery.Repositories.deps.json
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\bin\Debug\net8.0\KoiDelivery.Repositories.runtimeconfig.json
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\bin\Debug\net8.0\KoiDelivery.Repositories.dll
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\bin\Debug\net8.0\KoiDelivery.Repositories.pdb
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\obj\Debug\net8.0\KoiDelivery.Repositories.csproj.AssemblyReference.cache
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\obj\Debug\net8.0\KoiDelivery.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\obj\Debug\net8.0\KoiDelivery.Repositories.AssemblyInfoInputs.cache
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\obj\Debug\net8.0\KoiDelivery.Repositories.AssemblyInfo.cs
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\obj\Debug\net8.0\KoiDelivery.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\obj\Debug\net8.0\KoiDelivery.Repositories.dll
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\obj\Debug\net8.0\refint\KoiDelivery.Repositories.dll
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\obj\Debug\net8.0\KoiDelivery.Repositories.pdb
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\obj\Debug\net8.0\KoiDelivery.Repositories.genruntimeconfig.cache
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Repositories\obj\Debug\net8.0\ref\KoiDelivery.Repositories.dll

@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{422E0DC1-FA42-46A5-A08E-389FA96C80D1}|KoiDelivery.WebApp\\KoiDelivery.WebApp.csproj|c:\\users\\my laptop\\source\\repos\\koideliverysys-main\\koidelivery.webapp\\pages\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422E0DC1-FA42-46A5-A08E-389FA96C80D1}|KoiDelivery.WebApp\\KoiDelivery.WebApp.csproj|solutionrelative:koidelivery.webapp\\pages\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422E0DC1-FA42-46A5-A08E-389FA96C80D1}|KoiDelivery.WebApp\\KoiDelivery.WebApp.csproj|c:\\users\\my laptop\\source\\repos\\koideliverysys-main\\koidelivery.webapp\\pages\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422E0DC1-FA42-46A5-A08E-389FA96C80D1}|KoiDelivery.WebApp\\KoiDelivery.WebApp.csproj|solutionrelative:koidelivery.webapp\\pages\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422E0DC1-FA42-46A5-A08E-389FA96C80D1}|KoiDelivery.WebApp\\KoiDelivery.WebApp.csproj|c:\\users\\my laptop\\source\\repos\\koideliverysys-main\\koidelivery.webapp\\pages\\account\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422E0DC1-FA42-46A5-A08E-389FA96C80D1}|KoiDelivery.WebApp\\KoiDelivery.WebApp.csproj|solutionrelative:koidelivery.webapp\\pages\\account\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55EDDE91-5B65-422C-A348-7A98483A8E32}|KoiDelivery.Repositories\\KoiDelivery.Repositories.csproj|c:\\users\\my laptop\\source\\repos\\koideliverysys-main\\koidelivery.repositories\\khachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55EDDE91-5B65-422C-A348-7A98483A8E32}|KoiDelivery.Repositories\\KoiDelivery.Repositories.csproj|solutionrelative:koidelivery.repositories\\khachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9830E6-6C38-40FC-B647-1948F9968974}|KoiDelivery.Services\\KoiDelivery.Services.csproj|c:\\users\\my laptop\\source\\repos\\koideliverysys-main\\koidelivery.services\\interfaces\\ikhachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9830E6-6C38-40FC-B647-1948F9968974}|KoiDelivery.Services\\KoiDelivery.Services.csproj|solutionrelative:koidelivery.services\\interfaces\\ikhachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422E0DC1-FA42-46A5-A08E-389FA96C80D1}|KoiDelivery.WebApp\\KoiDelivery.WebApp.csproj|c:\\users\\my laptop\\source\\repos\\koideliverysys-main\\koidelivery.webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422E0DC1-FA42-46A5-A08E-389FA96C80D1}|KoiDelivery.WebApp\\KoiDelivery.WebApp.csproj|solutionrelative:koidelivery.webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422E0DC1-FA42-46A5-A08E-389FA96C80D1}|KoiDelivery.WebApp\\KoiDelivery.WebApp.csproj|c:\\users\\my laptop\\source\\repos\\koideliverysys-main\\koidelivery.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422E0DC1-FA42-46A5-A08E-389FA96C80D1}|KoiDelivery.WebApp\\KoiDelivery.WebApp.csproj|solutionrelative:koidelivery.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422E0DC1-FA42-46A5-A08E-389FA96C80D1}|KoiDelivery.WebApp\\KoiDelivery.WebApp.csproj|c:\\users\\my laptop\\source\\repos\\koideliverysys-main\\koidelivery.webapp\\pages\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422E0DC1-FA42-46A5-A08E-389FA96C80D1}|KoiDelivery.WebApp\\KoiDelivery.WebApp.csproj|solutionrelative:koidelivery.webapp\\pages\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9830E6-6C38-40FC-B647-1948F9968974}|KoiDelivery.Services\\KoiDelivery.Services.csproj|c:\\users\\my laptop\\source\\repos\\koideliverysys-main\\koidelivery.services\\koidelivery.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F9830E6-6C38-40FC-B647-1948F9968974}|KoiDelivery.Services\\KoiDelivery.Services.csproj|solutionrelative:koidelivery.services\\koidelivery.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55EDDE91-5B65-422C-A348-7A98483A8E32}|KoiDelivery.Repositories\\KoiDelivery.Repositories.csproj|c:\\users\\my laptop\\source\\repos\\koideliverysys-main\\koidelivery.repositories\\entities\\taikhoancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55EDDE91-5B65-422C-A348-7A98483A8E32}|KoiDelivery.Repositories\\KoiDelivery.Repositories.csproj|solutionrelative:koidelivery.repositories\\entities\\taikhoancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.WebApp\\Pages\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KoiDelivery.WebApp\\Pages\\Account\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.WebApp\\Pages\\Account\\Edit.cshtml",
+              "RelativeToolTip": "KoiDelivery.WebApp\\Pages\\Account\\Edit.cshtml",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAADgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T13:54:29.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.WebApp\\Pages\\Account\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "KoiDelivery.WebApp\\Pages\\Account\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.WebApp\\Pages\\Account\\Delete.cshtml.cs",
+              "RelativeToolTip": "KoiDelivery.WebApp\\Pages\\Account\\Delete.cshtml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:23:54.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.WebApp\\Pages\\Account\\Details.cshtml",
+              "RelativeDocumentMoniker": "KoiDelivery.WebApp\\Pages\\Account\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.WebApp\\Pages\\Account\\Details.cshtml",
+              "RelativeToolTip": "KoiDelivery.WebApp\\Pages\\Account\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T12:47:20.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IKhachHangService.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.Services\\Interfaces\\IKhachHangService.cs",
+              "RelativeDocumentMoniker": "KoiDelivery.Services\\Interfaces\\IKhachHangService.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.Services\\Interfaces\\IKhachHangService.cs",
+              "RelativeToolTip": "KoiDelivery.Services\\Interfaces\\IKhachHangService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:47:47.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHangRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.Repositories\\KhachHangRepository.cs",
+              "RelativeDocumentMoniker": "KoiDelivery.Repositories\\KhachHangRepository.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.Repositories\\KhachHangRepository.cs",
+              "RelativeToolTip": "KoiDelivery.Repositories\\KhachHangRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEsAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:00:30.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KoiDelivery.WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KoiDelivery.WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkCAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T11:25:56.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "KoiDelivery.WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.WebApp\\Program.cs",
+              "RelativeToolTip": "KoiDelivery.WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:58:14.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.WebApp\\Pages\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "KoiDelivery.WebApp\\Pages\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.WebApp\\Pages\\Account\\Create.cshtml",
+              "RelativeToolTip": "KoiDelivery.WebApp\\Pages\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T08:23:53.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KoiDelivery.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.Services\\KoiDelivery.Services.csproj",
+              "RelativeDocumentMoniker": "KoiDelivery.Services\\KoiDelivery.Services.csproj",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.Services\\KoiDelivery.Services.csproj",
+              "RelativeToolTip": "KoiDelivery.Services\\KoiDelivery.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T07:54:31.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaiKhoanContext.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.Repositories\\Entities\\TaiKhoanContext.cs",
+              "RelativeDocumentMoniker": "KoiDelivery.Repositories\\Entities\\TaiKhoanContext.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\KoiDeliverySys-main\\KoiDelivery.Repositories\\Entities\\TaiKhoanContext.cs",
+              "RelativeToolTip": "KoiDelivery.Repositories\\Entities\\TaiKhoanContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:42:21.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
