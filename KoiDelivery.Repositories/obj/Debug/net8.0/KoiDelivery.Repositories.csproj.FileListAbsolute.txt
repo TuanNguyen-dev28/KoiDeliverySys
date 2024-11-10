@@ -1,0 +1,15 @@
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/bin/Debug/net8.0/KoiDelivery.Repositories.deps.json
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/bin/Debug/net8.0/KoiDelivery.Repositories.runtimeconfig.json
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/bin/Debug/net8.0/KoiDelivery.Repositories.dll
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/bin/Debug/net8.0/KoiDelivery.Repositories.pdb
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/obj/Debug/net8.0/KoiDelivery.Repositories.csproj.AssemblyReference.cache
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/obj/Debug/net8.0/KoiDelivery.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/obj/Debug/net8.0/KoiDelivery.Repositories.AssemblyInfoInputs.cache
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/obj/Debug/net8.0/KoiDelivery.Repositories.AssemblyInfo.cs
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/obj/Debug/net8.0/KoiDelivery.Repositories.csproj.CoreCompileInputs.cache
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/obj/Debug/net8.0/KoiDelivery.Repositories.sourcelink.json
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/obj/Debug/net8.0/KoiDelivery.Repositories.dll
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/obj/Debug/net8.0/refint/KoiDelivery.Repositories.dll
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/obj/Debug/net8.0/KoiDelivery.Repositories.pdb
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/obj/Debug/net8.0/KoiDelivery.Repositories.genruntimeconfig.cache
+/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/obj/Debug/net8.0/ref/KoiDelivery.Repositories.dll

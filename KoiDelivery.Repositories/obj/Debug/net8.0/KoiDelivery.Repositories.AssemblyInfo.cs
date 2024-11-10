@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KoiDelivery.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acc69a77deca00d8a628f7cdfdaab29c5795494c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7be3de23660832db0237e6ee9d27e32538d80a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("KoiDelivery.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KoiDelivery.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

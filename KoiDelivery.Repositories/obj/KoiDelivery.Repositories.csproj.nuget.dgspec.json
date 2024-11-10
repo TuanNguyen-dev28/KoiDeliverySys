@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.Repositories/KoiDelivery.Repositories.csproj": {}
+    "/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/KoiDelivery.Repositories.csproj": {}
   },
   "projects": {
-    "/Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.Repositories/KoiDelivery.Repositories.csproj": {
+    "/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/KoiDelivery.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.Repositories/KoiDelivery.Repositories.csproj",
+        "projectUniqueName": "/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/KoiDelivery.Repositories.csproj",
         "projectName": "KoiDelivery.Repositories",
-        "projectPath": "/Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.Repositories/KoiDelivery.Repositories.csproj",
+        "projectPath": "/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/KoiDelivery.Repositories.csproj",
         "packagesPath": "/Users/nguyenanhtuan/.nuget/packages/",
-        "outputPath": "/Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.Repositories/obj/",
+        "outputPath": "/Users/nguyenanhtuan/KOI/KoiDelivery.Repositories/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nguyenanhtuan/.nuget/NuGet/NuGet.Config"
@@ -44,6 +44,10 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.0, )"
             },

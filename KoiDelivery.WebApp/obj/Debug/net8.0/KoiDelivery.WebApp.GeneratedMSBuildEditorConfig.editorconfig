@@ -1,47 +1,75 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KoiDelivery.WebApp
 build_property.RootNamespace = KoiDelivery.WebApp
-build_property.ProjectDir = /Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.WebApp/
+build_property.ProjectDir = /Users/nguyenanhtuan/KOI/KoiDelivery.WebApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.WebApp
+build_property.MSBuildProjectDirectory = /Users/nguyenanhtuan/KOI/KoiDelivery.WebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.WebApp/Pages/Error.cshtml]
+[/Users/nguyenanhtuan/KOI/KoiDelivery.WebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.WebApp/Pages/Index.cshtml]
+[/Users/nguyenanhtuan/KOI/KoiDelivery.WebApp/Pages/Fish/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmlzaC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nguyenanhtuan/KOI/KoiDelivery.WebApp/Pages/Fish/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmlzaC9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nguyenanhtuan/KOI/KoiDelivery.WebApp/Pages/Fish/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmlzaC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nguyenanhtuan/KOI/KoiDelivery.WebApp/Pages/Fish/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmlzaC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nguyenanhtuan/KOI/KoiDelivery.WebApp/Pages/Fish/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmlzaC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nguyenanhtuan/KOI/KoiDelivery.WebApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.WebApp/Pages/Privacy.cshtml]
+[/Users/nguyenanhtuan/KOI/KoiDelivery.WebApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/nguyenanhtuan/KOI/KoiDelivery.WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.WebApp/Pages/_ViewImports.cshtml]
+[/Users/nguyenanhtuan/KOI/KoiDelivery.WebApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.WebApp/Pages/_ViewStart.cshtml]
+[/Users/nguyenanhtuan/KOI/KoiDelivery.WebApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nguyenanhtuan/KoiDeliverySystem/KoiDelivery.WebApp/Pages/Shared/_Layout.cshtml]
+[/Users/nguyenanhtuan/KOI/KoiDelivery.WebApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lal4sis5wr

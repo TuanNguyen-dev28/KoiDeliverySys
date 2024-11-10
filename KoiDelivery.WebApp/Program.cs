@@ -1,8 +1,19 @@
+using KoiDelivery.Repositories;
+using KoiDelivery.Repositories.Entities;
+using KoiDelivery.Repositories.Interfaces;
+using KoiDelivery.Services;
+using KoiDelivery.Services.Interfaces;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-
+//DI
+builder.Services.AddDbContext<KoiFishContext>();
+//DI Repositories
+builder.Services.AddScoped<IKoiFishRepository, KoiFishRepository>();
+//DI Services
+builder.Services.AddScoped<IKoiFishService, KoiFishService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
