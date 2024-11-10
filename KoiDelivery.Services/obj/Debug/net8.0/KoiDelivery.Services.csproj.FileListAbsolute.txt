@@ -1,0 +1,18 @@
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\bin\Debug\net8.0\KoiDelivery.Services.deps.json
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\bin\Debug\net8.0\KoiDelivery.Services.dll
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\bin\Debug\net8.0\KoiDelivery.Services.pdb
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\bin\Debug\net8.0\KoiDelivery.Repositories.dll
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\bin\Debug\net8.0\KoiDelivery.Repositories.pdb
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\obj\Debug\net8.0\KoiDelivery.Services.csproj.AssemblyReference.cache
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\obj\Debug\net8.0\KoiDelivery.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\obj\Debug\net8.0\KoiDelivery.Services.AssemblyInfoInputs.cache
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\obj\Debug\net8.0\KoiDelivery.Services.AssemblyInfo.cs
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\obj\Debug\net8.0\KoiDelivery.Services.csproj.CoreCompileInputs.cache
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\obj\Debug\net8.0\KoiDeliv.94A0E4F2.Up2Date
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\obj\Debug\net8.0\KoiDelivery.Services.dll
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\obj\Debug\net8.0\refint\KoiDelivery.Services.dll
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\obj\Debug\net8.0\KoiDelivery.Services.pdb
+C:\Users\MY LAPTOP\source\repos\KoiDeliverySys-main\KoiDelivery.Services\obj\Debug\net8.0\ref\KoiDelivery.Services.dll
+C:\Users\PC\Downloads\KoiDeliverySys-main\KoiDelivery.Services\obj\Debug\net8.0\KoiDelivery.Services.dll
+C:\Users\PC\Downloads\KoiDeliverySys-main\KoiDelivery.Services\obj\Debug\net8.0\refint\KoiDelivery.Services.dll
+C:\Users\PC\Downloads\KoiDeliverySys-main\KoiDelivery.Services\obj\Debug\net8.0\KoiDelivery.Services.pdb
